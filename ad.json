@@ -1,7 +1,23 @@
 {
-  "enabled": true,
-  "imageUrl": "https://github.com/alokvideoeditornp/Auto-cap-s-Style-ad/blob/main/ad.png",
-  "link": "https://mahatoalok.com.np/",
-  "altText": "Special Promotion",
-  "badge": "SPONSORED"
+  "enabled": 1,
+  "ads": [
+    {
+      "enabled": 1,
+      "imageUrl": "https://github.com/alokvideoeditornp/Auto-cap-s-Style-ad/blob/main/ad.png",
+      "link": "https://mahatoalok.com.np/",
+      "badge": "SPONSORED"
+    },
+    {
+      "enabled": 0,
+      "imageUrl": "https://github.com/alokvideoeditornp/Auto-cap-s-Style-ad/blob/main/ad2.png",
+      "link": "https://payhip.com/your-product-2",
+      "badge": "50% OFF"
+    },
+    {
+      "enabled": 1,
+      "imageUrl": "https://github.com/alokvideoeditornp/Auto-cap-s-Style-ad/blob/main/ad3.png",
+      "link": "https://payhip.com/your-product-3",
+      "badge": "HOT DEAL"
+    }
+  ]
 }
