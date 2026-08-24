@@ -18,6 +18,18 @@
       "imageUrl": "https://github.com/alokvideoeditornp/Auto-cap-s-Style-ad/blob/main/ad2.png",
       "link": "https://payhip.com/your-product-3",
       "badge": "HOT DEAL"
+    },
+    {
+      "enabled": 1,
+      "videoUrl": "videos/promo.mp4",
+      "link": "https://mahatoalok.com.np/",
+      "badge": "WATCH DEMO"
+    },
+    {
+      "enabled": 0,
+      "imageUrl": "images/banner.png",
+      "link": "https://payhip.com/your-product",
+      "badge": "50% OFF"
     }
   ]
 }
