@@ -3,13 +3,13 @@
   "ads": [
     {
       "enabled": 1,
-      "imageUrl": "Images/ad_Auto File Organizer Pro.png?v=2",
+      "imageUrl": "Images/Auto File Organizer Pro.png",
       "link": "https://payhip.com/b/HbZKp",
       "badge": "35% OFF"
     },
     {
       "enabled": 0,
-      "imageUrl": "https://github.com/alokvideoeditornp/Auto-cap-s-Style-ad/blob/main/ad2.png",
+      "imageUrl": "https://github.com/alokvideoeditornp/Auto-cap-s-Style-ad/blob/main/ad2.png?v=2",
       "link": "https://payhip.com/your-product-2",
       "badge": "50% OFF"
     },
